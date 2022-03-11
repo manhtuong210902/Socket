@@ -1,0 +1,42 @@
+[
+    {
+        "username": "helloworld",
+        "password": "hello"
+    },
+    {
+        "username": "manh",
+        "password": "tuong"
+    },
+    {
+        "username": "manh",
+        "password": "210902"
+    },
+    {
+        "username": "tuong",
+        "password": "chu"
+    },
+    {
+        "username": "manhtuong",
+        "password": "123456"
+    },
+    {
+        "username": "manhchim",
+        "password": "tuong"
+    },
+    {
+        "username": "manh",
+        "password": "admin"
+    },
+    {
+        "username": "manhtuong",
+        "password": "manhchym"
+    },
+    {
+        "username": "mmtnhom27",
+        "password": "nhom27"
+    },
+    {
+        "username": "admin",
+        "password": "123456"
+    }
+]
